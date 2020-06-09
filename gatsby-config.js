@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `DentaScan`,
+    description: `DentaScan is an Artificial intelligence, AI, that can make accurate diagnoses of a patients teeth given an image of their teeth.`,
     author: `@gatsbyjs`,
   },
   plugins: [
@@ -29,6 +29,7 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
+    `gatsby-plugin-sass`
   ],
 }
