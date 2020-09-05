@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `DentaScan`,
-    description: `DentaScan is an Artificial intelligence, AI, that can make accurate diagnoses of a patients teeth given an image of their teeth.`,
-    author: `@gatsbyjs`,
+    title: `DentaSage`,
+    description: `DentaSage is an Artificial intelligence, AI, that can make accurate diagnoses of a patients teeth given an image of their teeth.`,
+    author: `@Yousif`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

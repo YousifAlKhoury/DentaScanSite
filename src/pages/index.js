@@ -8,11 +8,10 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    <p>DentaScan is a software application currently under development that aims to use AI technology to identify certain dental illnesses from radio graphs.</p>
+    
   </Layout>
 )
 
 export default IndexPage
+ 
